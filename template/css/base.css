@@ -292,3 +292,7 @@ a:hover {
 .caselist li img{
 	width:280px;
 	height:180px;}
+
+	[data-width="100%"] img {
+		width: 100%
+	}
